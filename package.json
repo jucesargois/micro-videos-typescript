@@ -17,10 +17,12 @@
     "@swc/jest": "^0.2.26",
     "@types/node": "^14.14.31",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "@types/lodash": "^4.14.180"
   },
   "dependencies": {
     "@types/jest": "^29.5.1",
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "lodash": "^4.17.21"
   }
 }
